@@ -9,4 +9,10 @@ groupadd
 chmod
 groupdel
 groupmod
+git log
+git pull
+git commit
+git branch branchname
+
+
 
