@@ -9,4 +9,5 @@ groupadd
 chmod
 groupdel
 groupmod
-
+git branch -d branch name
+git checkout branchname
