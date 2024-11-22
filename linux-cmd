@@ -9,5 +9,13 @@ groupadd
 chmod
 groupdel
 groupmod
-git branch -d branch name
-git checkout branchname
+git log
+git pull
+git commit
+git branch branchname
+git reset
+git restore 
+git push origin branchname
+
+
+
