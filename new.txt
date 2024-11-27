@@ -1,0 +1,2 @@
+Content in new.txt
+Additional contennt in new.txt
