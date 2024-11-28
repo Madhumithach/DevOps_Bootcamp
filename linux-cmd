@@ -16,6 +16,8 @@ git branch branchname
 git reset
 git restore 
 git push origin branchname
-
+adding for merge conflict
+git reset --hard commitid
+git reset --soft commitid
 
 
