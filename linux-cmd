@@ -9,5 +9,4 @@ groupadd
 chmod
 groupdel
 groupmod
-git checkout
-git branch -b branchname
+
