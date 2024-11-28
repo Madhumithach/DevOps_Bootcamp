@@ -16,6 +16,9 @@ git branch branchname
 git reset
 git restore 
 git push origin branchname
-
+git checkout branchname
+git pull origin branchname
+git reset --hard branchname
+git reset --soft branchname
 
 
